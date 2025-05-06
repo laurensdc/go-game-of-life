@@ -1,5 +1,11 @@
 # Game of life
 
+## Archived
+
+Project is archived because it's being moved to https://github.com/laurensdc/go-katas
+
+The commit history will be moved to the repo as well.
+
 ## Running
 
 1. (Optional) Modify the `gameflow/starting_state.go`
